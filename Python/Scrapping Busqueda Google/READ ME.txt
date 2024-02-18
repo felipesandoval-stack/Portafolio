@@ -1,0 +1,3 @@
+2024-02-18
+
+Un scrapping que busca en internet una palabra y extrae todas las direcciones IP (funciona con el buscador google).

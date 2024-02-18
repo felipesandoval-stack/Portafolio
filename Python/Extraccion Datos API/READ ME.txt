@@ -1,0 +1,3 @@
+2024-02-18
+
+Ejemplo de funcionamiento de una API para testeo, json.

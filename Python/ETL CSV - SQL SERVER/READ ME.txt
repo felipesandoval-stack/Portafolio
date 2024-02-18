@@ -1,0 +1,5 @@
+2024-02-18
+
+Lectura de multiples archivos CSV, ejecucion fila a fila con estadisticas, almacenamiento de dataframe en excel
+Cargue de informacion desde CSV a DB
+SQL SERVER.
